@@ -12,25 +12,7 @@
   <meta name="keywords" content="Markdown, Dillinger, Editor, ACE, Github, Open Source, Node.js">
   <meta name="author" content="Joe McCann and Martin Broder">
 
-  <link rel="apple-touch-icon" href="https://dillinger.io/apple-touch-icon.png">
-  <!--
-
-  Powered by:
-
-  '||''''|
-   ||  .   ... ...... ...... ..   ....  ....  ....
-   ||''|    '|..'  ||'  ||||' ''.|...||||. ' ||. '
-   ||        .|.   ||    |||    ||     . '|... '|..
-  .||.....|.|  ||. ||...'.||.    '|...'|'..|'|'..|'
-                   ||
-                   ||
-
-  Node.js version 12.16.1
-
-  Dillinger version 3.39.1
-
-  -->
-
+ 
   <!-- Spiders must use meta description -->
   <meta name="robots" content="noodp, noydir">
 
